@@ -1,6 +1,10 @@
 {
   "name": "expensify",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.17.6",
+    "yarn": "1.22.19"
+  },
   "main": "index.js",
   "author": "Gyandeep Kalita",
   "license": "MIT",
